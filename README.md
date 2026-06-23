@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 ## Counting
 |  |
