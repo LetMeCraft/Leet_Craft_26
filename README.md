@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0201-bitwise-and-of-numbers-range) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
