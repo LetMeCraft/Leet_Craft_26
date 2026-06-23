@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
