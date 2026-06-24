@@ -1,16 +1,17 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+    void merge(vector<int>& A, int m, vector<int>& B, int n) {
 
         // Remove the extra 0s from nums1
-        while (nums1.size() > m) {
-            nums1.pop_back();
+        while (A.size() > m) {
+            A.pop_back();
         }
 
         // Append nums2 into nums1
-        nums1.insert(nums1.end(), nums2.begin(), nums2.end());
+        A.insert(A.end(), B.begin(), B.end());
 
         // Sort the merged array
-        sort(nums1.begin(), nums1.end());
+        sort(A.begin(), A.end());
     }
 };
+
