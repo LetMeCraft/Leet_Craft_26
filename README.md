@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
