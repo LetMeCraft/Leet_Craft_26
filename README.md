@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
