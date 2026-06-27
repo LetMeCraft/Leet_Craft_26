@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
-        for(int i = 1; i < nums.size(); i++){
+        int len = nums.size();
+        for(int i = 1; i < len; i++){
             nums[i] += nums[i-1];
         }
         return nums;
