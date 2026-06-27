@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/2965-find-missing-and-repeated-values) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
