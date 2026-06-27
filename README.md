@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
