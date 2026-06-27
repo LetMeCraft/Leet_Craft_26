@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/0496-next-greater-element-i) |
+| [1480-running-sum-of-1d-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/1480-running-sum-of-1d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/2965-find-missing-and-repeated-values) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/LetMeCraft/Leet_Craft_26/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
